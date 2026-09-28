@@ -5,3 +5,4 @@ venv/
 .ipynb_checkpoints/
 .env
 .DS_Store
+support_assistant/chroma_db/
