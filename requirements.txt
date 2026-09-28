@@ -1,0 +1,8 @@
+# Module 1
+pip install -r data_pipeline/requirements.txt
+
+# Module 2
+pip install -r analytics/requirements.txt
+
+# Module 3
+pip install -r support_assistant/requirements.txt
